@@ -7,7 +7,7 @@
   ### Repository Description:
 - This program aims to show us the use of SHWICH and FUNCTIONS through three options that generate processes that contain mathematical operations and the use of arrays.
 -  ### What programming languages ​​are used; libraries or third-party packages.:
- Java version 1.8 was used
+ For this project we are using the PHP programming language in addition to a database.
 - ### What was your motivation?
 Learn more about functions and Switch through exercises in Java.
 - ### Why did you build this project?
